@@ -1,5 +1,5 @@
 import Section from "./Section";
-import { curve, robot } from "../assets";
+import { curve, heroBackground, robot } from "../assets";
 import Button from "./Button";
 const Hero = () => {
   return (
@@ -47,6 +47,15 @@ const Hero = () => {
                 />
               </div>
             </div>
+          </div>
+          <div>
+            <img
+              src={heroBackground}
+              className="w-full"
+              width={1440}
+              hero={1800}
+              alt="hero"
+            />
           </div>
         </div>
       </div>
