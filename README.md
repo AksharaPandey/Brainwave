@@ -29,30 +29,48 @@ brainwave/
 
 ### Prerequisites
 Node.js (version 14 or higher)
+
 npm or Yarn
+
 Installation
-Clone the repository:
+
+## Clone the repository:
 git clone https://github.com/AksharaPandey/Brainwave.git
+
 cd Brainwave
+
 Install dependencies:
+
 Using npm:
+
 npm install
 
 Or using Yarn:
+
 yarn install
+
 Start the development server:
+
 Using npm:
+
 npm run dev
 
 Or using Yarn:
+
 yarn dev
+
 Open your browser and navigate to:
+
 http://localhost:5173
-🛠️ Technologies Used
+
+### 🛠️ Technologies Used
 
 React.js
+
 Tailwind CSS
+
 Vite
+
 JavaScript
 
 ### 🙌 Acknowledgements
