@@ -18,6 +18,7 @@ const App = () => {
         <Services />
         <Pricing />
         <Roadmap />
+        <Footer />
       </div>
       <ButtonGradient />
     </>
